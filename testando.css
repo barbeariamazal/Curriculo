@@ -1,9 +1,7 @@
 body{
     background-color: antiquewhite;
     font-size: 20px;
-    text-align: center;
-    
-    
+    text-align: center;      
     animation: colorchange 20s infinite;
 }
 @keyframes colorchange {
@@ -11,8 +9,11 @@ body{
     
     15%  {background-color: beige;}
     30%  {background-color: darkviolet;}
-    40% {background-color: azure;}
-        
+    40% {background-color: azure;}        
+}
+.margem{
+   width: 675px;
+   margin: 0 auto;
 }
 
 p{
