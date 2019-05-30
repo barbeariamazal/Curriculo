@@ -1,7 +1,8 @@
 body{
     background-color: antiquewhite;
     font-size: 20px;
-    text-align: center;      
+    text-align: center;    
+    Width:1024px;
     animation: colorchange 20s infinite;
 }
 @keyframes colorchange {
@@ -13,7 +14,7 @@ body{
 }
 .margem{
    width: 105px;
-   margin: 10 auto;
+   margin: 100 auto;
 }
 
 a {
