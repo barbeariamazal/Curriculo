@@ -2,7 +2,7 @@ body{
     background-color: antiquewhite;
     font-size: 20px;
     text-align: center;    
-    Width:1024px;
+    
     animation: colorchange 20s infinite;
 }
 @keyframes colorchange {
