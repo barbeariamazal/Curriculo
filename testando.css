@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    
+    
+    animation: colorchange 20s infinite;
+}
+@keyframes colorchange {
+    0% {background-color: antiquewhite;}
+    
+    15%  {background-color: beige;}
+    30%  {background-color: darkviolet;}
+    40% {background-color: azure;}
+        
+}
+
+p{
+    top: 700;
+    
+}
+
+label{
+    
+    font-size: 15px;
+}
+.foto{
+    
+    position: relative;
+    top: 800px;
+    
+}
+    
