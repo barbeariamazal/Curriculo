@@ -4,13 +4,6 @@ body{
     
     
 }
-@keyframes colorchange {
-    0% {background-color: antiquewhite;}
-    
-    15%  {background-color: beige;}
-    30%  {background-color: darkviolet;}
-    40% {background-color: azure;}        
-}
 
 .f_d:hover ﻿{
 
