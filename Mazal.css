@@ -2,6 +2,10 @@
     border: 1px solid #2a2a2a;
     background: black;
     box-shadow: 0 0 5px #2a2a2a;
+	position:absolute;
+	height:768px;
+	width:1368px;
+	
 }
 .current-section {
     position: fixed;
