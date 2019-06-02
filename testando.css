@@ -1,6 +1,6 @@
 body{
     background-color: antiquewhite;
-    font-size: 50px;
+    font-size: 120px;
     text-align: center;    
     
     animation: colorchange 20s infinite;
