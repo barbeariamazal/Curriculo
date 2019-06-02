@@ -12,12 +12,10 @@ body{
     30%  {background-color: darkviolet;}
     40% {background-color: azure;}        
 }
-.margem{
-   width: 80%;
-   margin: 100 auto;
-}
 
-.container{width: 1024px; height: 0 auto; margin: 10 auto;
+.container{width: 80%; 
+   height: 0 auto; 
+   margin: 10 auto;
 }
 
 a {
