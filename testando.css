@@ -13,9 +13,13 @@ body{
     40% {background-color: azure;}        
 }
 
-.container{width: 90%; 
-   height: 0 auto; 
-   margin: 0 auto;
+.container{
+         margin: 0 auto;
+	background-color:;
+	position:absolute;
+	height:768px;
+	width:1368px;
+	
 }
 
 a {
