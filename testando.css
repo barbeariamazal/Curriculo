@@ -13,7 +13,7 @@ body{
     40% {background-color: azure;}        
 }
 
-.container{width: 90%; 
+.container{width: 10%; 
    height: 0 auto; 
    margin: 0 auto;
 }
@@ -25,7 +25,7 @@ a {
     -webkit-transition: opacity ease-in-out 0.3s;
 }
 p{
-    top: 120px;
+    top: 220px;
     font-size: 50px;
     
 }
