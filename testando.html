@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <htmL>
     <head>
+
+function pisca() {
+  var f = document.getElementById('anuncio');
+  setInterval(function() {
+    f.style.visibility = (f.style.visibility == 'hidden' ? '' : 'hidden');
+  }, 1000);
+}
         <meta lang="pt-br">
         <meta charset="utf-8">
         <link rel="stylesheet" href="testando.css">
         <title>Então Responda</title>
         </head>
-    <body>
+    <body onload="pisca()">
         <div class="container">
         
             
             <h1><marquee  behavior="alternate" scrolldelay="10">Sabe que é a pessoa que TE AMA</marquee> </h1>
             <img  src="coracao.png" width="100%"><br><br>
-            <p class="f_d">Olha lá em baixo</p><br>
+            <p class="f_d" id="anuncio">Olha lá em baixo</p><br>
             
             <img class="foto" src="MomentCam_20150111_114552-1.jpg" width="100%">
         </div>
