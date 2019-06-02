@@ -64,6 +64,9 @@ h1{
      animation: piscar 2s infinite;
     
 }
+body{
+     animation: piscar;
+}
 
     @keyframes piscar {
     0% {background-color: antiquewhite;}
