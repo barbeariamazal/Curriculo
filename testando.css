@@ -14,7 +14,7 @@ body{
 }
 
 .container{width: 95%; 
-   height: 10% auto; 
+   height: 0 auto; 
    margin: 10 auto;
 }
 
