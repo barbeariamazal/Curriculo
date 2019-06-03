@@ -65,7 +65,8 @@ h1{
     
 }
 body{
-     animation: piscar 2s infinite;
+    background-color:beige;
+ animation: piscar 2s infinite;
 }
 
     @keyframes piscar {
