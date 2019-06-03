@@ -3,8 +3,9 @@
     background: black;
     box-shadow: 0 0 5px #2a2a2a;
 	position:absolute;
-	height:500px;
+	height:100px;
 	width:1368px;
+        left: 0;
 	
 }
 .current-section {
